@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "404433977247",
+    "project_id": "realtimeflutter-c5c86",
+    "storage_bucket": "realtimeflutter-c5c86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404433977247:android:a972ec1a58111be4a847aa",
+        "android_client_info": {
+          "package_name": "com.example.flutterrealtimedatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjAXAko2V6RwKdyH8LowFw1FyDVnPlFZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
