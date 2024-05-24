@@ -41,14 +41,15 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDjzCu8ALBMH_UQh36W8bi1_TwSG9ga3lo',
-    appId: '1:404433977247:web:8952427bd66ebfeba847aa',
-    messagingSenderId: '404433977247',
-    projectId: 'realtimeflutter-c5c86',
-    authDomain: 'realtimeflutter-c5c86.firebaseapp.com',
-    storageBucket: 'realtimeflutter-c5c86.appspot.com',
-    measurementId: 'G-JP4ZG0FC3H',
-  );
+      apiKey: 'AIzaSyDjzCu8ALBMH_UQh36W8bi1_TwSG9ga3lo',
+      appId: '1:404433977247:web:8952427bd66ebfeba847aa',
+      messagingSenderId: '404433977247',
+      projectId: 'realtimeflutter-c5c86',
+      authDomain: 'realtimeflutter-c5c86.firebaseapp.com',
+      storageBucket: 'realtimeflutter-c5c86.appspot.com',
+      measurementId: 'G-JP4ZG0FC3H',
+      databaseURL:
+          'https://realtimeflutter-c5c86-default-rtdb.firebaseio.com/');
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyAjAXAko2V6RwKdyH8LowFw1FyDVnPlFZs',
